@@ -1,1 +1,7 @@
-This is the css style file for the excursion project.
+/*This is the css style file for the excursion project.
+
+* {
+    margin: 0;
+    padding: 0;
+box-sizing: border-box;
+}
