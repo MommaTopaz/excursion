@@ -8,10 +8,10 @@ box-sizing: border-box;
 
 
 body, html {
-background-color: black;
-color: white;
+background-color: pink;
+color:black;
 }
 
-img {
+p img, p, img {
 background-color: white;
 }
