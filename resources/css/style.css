@@ -10,8 +10,6 @@ box-sizing: border-box;
 body, html {
 background-color: pink;
 color:black;
+font-family: Helvetica;
 }
 
-p img, p, img {
-background-color: white;
-}
