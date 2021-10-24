@@ -4,15 +4,8 @@
   box-sizing: border-box;
 }
 
-html, body {
- background-color: lightblue;
-  color: black;
+html {
+ align-context: center;
  display: center;
+ text-align: center;
 }
-
- img {
- display: center;
-  align-context: center;
-  text-align: center;
-}
-
