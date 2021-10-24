@@ -7,8 +7,10 @@
 html, body {
  background-color: lightblue;
   color: black;
+ display: center;
 }
 
 p img {
   background-color: black;
 }
+
