@@ -8,8 +8,12 @@ html {
  align-context: center;
  display: center;
  text-align: center;
+ overflow: hidden;
 }
 
 link {
 color: aquamarine;
+ font-size: 16pt;
 }
+
+
