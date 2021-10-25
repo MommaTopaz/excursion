@@ -4,13 +4,39 @@
   box-sizing: border-box;
 }
 
-html {
- align-context: center;
- display: center;
+body {
+ background-color: #000;
  text-align: center;
- overflow: hidden;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.header--main {
+ font-weight: normal;
+ font-size: 50px;
+ color: white;
+}
+
+.header--secondary {
+ font-weight: 300;
+ font-size: 42px;
+ color: white;
+}
+
+.header--sub-header {
+ font-size: 21px;
+ color: gray;
+}
+
+.links--cta {
+ font-size: 16px;
+ color: aquamarine;
+}
+
+.footer--copyright {
+ font-size: 21px;
+ color: gray;
+ text-align: right;
+}
 h6 {
 color: aquamarine;
  font-size: 18pt;
